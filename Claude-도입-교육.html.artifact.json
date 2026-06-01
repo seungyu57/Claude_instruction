@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "Claude 도입 교육.html",
+  "entry": "Claude-도입-교육.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-05-31T12:48:09.687Z",
+  "updatedAt": "2026-05-31T16:34:48.156Z",
+  "metadata": {
+    "inferred": true
+  }
+}
